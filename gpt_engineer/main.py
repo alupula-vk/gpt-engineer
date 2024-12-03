@@ -60,4 +60,4 @@ def main(
 
 
 if __name__ == "__main__":
-    app()
+    app()get the gear value of angle_<60
